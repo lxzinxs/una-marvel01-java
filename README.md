@@ -39,3 +39,11 @@ Certifique-se de ter o **JDK (Java Development Kit)** instalado.
 2. Compile o código fonte desejado:
    ```bash
    javac Alistamento.java
+   ```
+3. Rode a aplicação gerada:
+   ```bash
+   java Alistamento
+   ```
+
+---
+**Desenvolvido por Lucas Nery Miranda** *Estudante de Ciência da Computação - Universidade UNA (Contagem)*
